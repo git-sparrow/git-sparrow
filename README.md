@@ -26,6 +26,6 @@ Worth reading if you're curious how I think:
 ### 📫 Reach me
 
 [LinkedIn](https://www.linkedin.com/in/oleksandrhorobets/) ·
-[olek.horob@gmail.com](mailto:git.sparrow@gmail.com)
+[olek.horob@gmail.com](mailto:olek.horob@gmail.com)
 
 **Open to senior engineering roles** — remote or Ukraine-based.
